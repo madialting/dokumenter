@@ -4,8 +4,8 @@ Diverse dokumenter såsom dagsordener og referater.
 
 ## Foreningens oplysninger
 Mad I Alting   
-Åbogade 34, Hopper-121  
 C/O Datalogisk Institut, Aarhus Universitet  
+Åbogade 34, Hopper-121  
 8200 Aarhus N
 
 CVR 34547564
