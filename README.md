@@ -4,17 +4,16 @@ Diverse dokumenter såsom dagsordener og referater.
 
 ## Foreningens oplysninger
 Mad I Alting   
-C/O Datalogisk Institut, Aarhus Universitet, Hopper-121  
-Åbogade 34  
-8200 Aarhus N
+Søndre Ringgade 49 4 th  
+8000 Aarhus C
 
 CVR 34547564
 
 www.madialting.dk
 
 ## Bankoplysninger
-Bank: Nordea  
-Reg.nr.: 2264  
-Kontonummer: 0759 935 543
+Bank: Folkesparekassen  
+Reg.nr.: 9860  
+Kontonummer: 356 255
 
 Medlemskontingent på pt. 10 kr. betales hvert kalenderår, med angivelse af GitHub brugernavn i kommentarfeltet.
