@@ -16,4 +16,4 @@ Bank: Folkesparekassen
 Reg.nr.: 9860  
 Kontonummer: 356 255
 
-Medlemskontingent på pt. 10 kr. betales hvert kalenderår, med angivelse af GitHub brugernavn i kommentarfeltet.
+Medlemskontingent på pt. 100 kr. betales hvert kalenderår, med angivelse af GitHub brugernavn i kommentarfeltet.
