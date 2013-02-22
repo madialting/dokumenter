@@ -10,7 +10,7 @@
 
 ## § 3 MEDLEMSKAB
 * Stk. 1. Medlemskab opnås ved indbetaling af gældende kontingentsats.
-* Stk. 2. Medlemskab forbeholdes ph.d.-studerende i Ubiquitous Computing and Interaction Group på Datalogisk Institut, Aarhus Universitet.
+* Stk. 2. Medlemskab forbeholdes ph.d.-studerende i Ubiquitous Computing and Interaction Group på Datalogisk Institut, Aarhus Universitet, og ph.d.-studerende ved Centre for Participatory Information Technology, der er tilknyttet Datalogisk Institut, Aarhus Universitet.
 * Stk. 3. Fortsat medlemskab forudsætter løbende rettidig betaling af eventuel gæld til foreningen, hvor bestyrelsen definerer hvad løbende rettidig betaling er.
 * Stk. 4. Udmeldelse af foreningen kan ske ved henvendelse til et bestyrelsesmedlem.
 * Stk. 5. Ved modarbejdelse af foreningens interesser, kan et medlem ekskluderes fra foreningen, af bestyrelsen. Eksklusioner skal bekræftes på næstkommende generalforsamling med 2/3-dels flertal, ellers annulleres eksklusionen.
@@ -80,3 +80,5 @@
 ## § 11 OPHØR
 * Stk. 1. Opløsning af foreningen kan kun finde sted med 2/3 flertal af de fremmødte på to hinanden efterfølgende generalforsamlinger, hvoraf den ene skal være en ordinær generalforsamling.
 * Stk. 2. Ved opløsning tilfalder foreningens aktiver en eller flere relevante foreninger efter generalforsamlingens nærmere bestemmelser.
+
+Vedtægterne er godkendt første gang på stiftende generalforsamling 9-8-2013. Revideret ved ordinær generalforsamling 22-2-2013.
