@@ -9,7 +9,7 @@ Søndre Ringgade 49 4 th
 
 CVR 34547564
 
-www.madialting.dk
+https://github.com/madialting
 
 ## Bankoplysninger
 Bank: Folkesparekassen  
