@@ -1,7 +1,8 @@
-# Board Meeting, April 26.
+# Board Meeting, April 26. 2016
 
 ## Present:
-Thor, Tiarre, Andreas and Mads(account)
+ * Thor, Tiarre, Andreas and Mads(account)
+ * KasperJak (no show)
 
 ## 1. Go to Føtex for cake
  * Done: Strawberry cake consumed
