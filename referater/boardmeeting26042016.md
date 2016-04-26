@@ -4,6 +4,7 @@
 Thor, Tiarre, Andreas and Mads(account)
 
 ## 1. Go to Føtex for cake
+ * Done: Strawberry cake consumed
 
 ## 2. Election of chairman
 Short term, noone volunteers
