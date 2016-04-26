@@ -8,12 +8,12 @@
  * Done: Strawberry cake consumed
 
 ## 2. Election of chairman
-Short term, noone volunteers
-Andreas nominates Tiarre, Tiarre nominates Mads
-Mads elected president untill the general assembly, dissertation deadline or death (which ever occurs first)
-Thor elected treassurer (promise to find the missing 7€)
-Tiarre volunteers to translate the statutes/by-laws
-It is decided that the treassurer protects the book of accounts
+ * Short term, noone volunteers
+ * Andreas nominates Tiarre, Tiarre nominates Mads
+ * Mads elected president untill the general assembly, dissertation deadline or death (which ever occurs first)
+ * Thor elected treassurer (promise to find the missing 7€)
+ * Tiarre volunteers to translate the statutes/by-laws
+ * It is decided that the treassurer protects the book of accounts
 
 ## 3. Plan for General Assembly
   * Proposed dates: June 24, July 8 (Doodle)
