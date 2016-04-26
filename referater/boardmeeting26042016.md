@@ -30,7 +30,7 @@
     * Eventuelt
     
 ## 4. Changing the by-laws in accordance to last general assembly
-  * By-laws changed: Alumni membership introduced
+  * By-laws changed: Alumni membership introduced (as by-law §2a)
   
 ## 5. Determination of yearly membership fee
   * The yearly memebership fee is determined to be 0 kr.
